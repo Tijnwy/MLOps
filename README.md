@@ -1,2 +1,2 @@
 # MLOps
-Appelmoes met vanillevla
+Verwijder zwart
